@@ -1,0 +1,11 @@
+E:\father-ui\byTourSearch.Services\bin\Release\netstandard2.0\byTourSearch.Services.deps.json
+E:\father-ui\byTourSearch.Services\bin\Release\netstandard2.0\byTourSearch.Services.dll
+E:\father-ui\byTourSearch.Services\bin\Release\netstandard2.0\byTourSearch.Services.pdb
+E:\father-ui\byTourSearch.Services\bin\Release\netstandard2.0\System.Data.SqlClient.dll
+E:\father-ui\byTourSearch.Services\bin\Release\netstandard2.0\System.Data.SqlClient.xml
+E:\father-ui\byTourSearch.Services\obj\Release\netstandard2.0\byTourSearch.Services.csprojResolveAssemblyReference.cache
+E:\father-ui\byTourSearch.Services\obj\Release\netstandard2.0\byTourSearch.Services.csproj.CoreCompileInputs.cache
+E:\father-ui\byTourSearch.Services\obj\Release\netstandard2.0\byTourSearch.Services.AssemblyInfoInputs.cache
+E:\father-ui\byTourSearch.Services\obj\Release\netstandard2.0\byTourSearch.Services.AssemblyInfo.cs
+E:\father-ui\byTourSearch.Services\obj\Release\netstandard2.0\byTourSearch.Services.dll
+E:\father-ui\byTourSearch.Services\obj\Release\netstandard2.0\byTourSearch.Services.pdb
