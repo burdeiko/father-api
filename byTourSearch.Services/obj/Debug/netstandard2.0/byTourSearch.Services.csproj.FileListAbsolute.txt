@@ -31,3 +31,12 @@ E:\father-api\byTourSearch.Services\obj\Debug\netstandard2.0\byTourSearch.Servic
 E:\father-api\byTourSearch.Services\obj\Debug\netstandard2.0\byTourSearch.Services.AssemblyInfo.cs
 E:\father-api\byTourSearch.Services\obj\Debug\netstandard2.0\byTourSearch.Services.dll
 E:\father-api\byTourSearch.Services\obj\Debug\netstandard2.0\byTourSearch.Services.pdb
+D:\father-api\byTourSearch.Services\bin\Debug\netstandard2.0\byTourSearch.Services.deps.json
+D:\father-api\byTourSearch.Services\bin\Debug\netstandard2.0\byTourSearch.Services.dll
+D:\father-api\byTourSearch.Services\bin\Debug\netstandard2.0\byTourSearch.Services.pdb
+D:\father-api\byTourSearch.Services\obj\Debug\netstandard2.0\byTourSearch.Services.csprojAssemblyReference.cache
+D:\father-api\byTourSearch.Services\obj\Debug\netstandard2.0\byTourSearch.Services.csproj.CoreCompileInputs.cache
+D:\father-api\byTourSearch.Services\obj\Debug\netstandard2.0\byTourSearch.Services.AssemblyInfoInputs.cache
+D:\father-api\byTourSearch.Services\obj\Debug\netstandard2.0\byTourSearch.Services.AssemblyInfo.cs
+D:\father-api\byTourSearch.Services\obj\Debug\netstandard2.0\byTourSearch.Services.dll
+D:\father-api\byTourSearch.Services\obj\Debug\netstandard2.0\byTourSearch.Services.pdb

@@ -1,4 +1,5 @@
 /byTourSearch.Services/obj/**
 /byTourSearch.Services/bin/**
+/byTourSearch.Services/Properties/**
 /byTourSearch.WebApi/obj/**
 /byTourSearch.WebApi/bin/**
