@@ -78,6 +78,7 @@ namespace byTourSearch.Services
 					sql += String.Format(" AND hotels.id = {0}", options.HotelId);
 				if (options.HotelName != null)
 					sql += String.Format(" AND hotels.name LIKE '%{0}%'", options.HotelName);
+				sql += " ORDER BY hotels.id, price";
 				var command = new MySqlCommand(sql, connection);
 				using (var reader = command.ExecuteReader())
 				{
