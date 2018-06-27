@@ -8,6 +8,6 @@ namespace byTourSearch.Services.Interface
     public interface ITourService
     {
         IEnumerable<Tour> GetTours(int internalHotelId);
-        IEnumerable<Tour> GetNonMatchedTours(int internalHotelId);
+		IEnumerable<Tour> Search(SearchOptions options);
     }
 }

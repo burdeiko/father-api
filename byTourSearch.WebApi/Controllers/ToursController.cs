@@ -20,9 +20,9 @@ namespace byTourSearch.PresentationLayer.Controllers
         }
 
         [HttpGet("[action]")]
-        public IEnumerable<MvcTour> NonMatchedTours([FromServices] ITourService service, int hotelId)
+        public IEnumerable<MvcTour> Search([FromServices] ITourService service, SearchOptions options)
         {
-            return service.GetNonMatchedTours(hotelId).Select((tour) => tour.ToMvcTour());
+            return service.Search(options).Select((tour) => tour.ToMvcTour());
         }
     }
 }
